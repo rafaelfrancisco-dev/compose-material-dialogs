@@ -1,0 +1,14 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+$dokka.location:////PointingToDeclaration/core/[root]/index.html
+$dokka.location://input/com.vanpra.composematerialdialogs.MaterialDialogScope#kotlin.String#kotlin.String#kotlin.String#kotlin.Boolean#kotlin.Boolean#androidx.compose.ui.text.TextStyle#kotlin.Function0[kotlin.Unit]?#kotlin.Function0[kotlin.Unit]?#androidx.compose.ui.text.input.VisualTransformation#androidx.compose.foundation.text.KeyboardOptions#androidx.compose.foundation.text.KeyboardActions#kotlin.Boolean#kotlin.Int#androidx.compose.foundation.interaction.MutableInteractionSource#androidx.compose.material.TextFieldColors#TextFieldStyle#kotlin.Boolean#kotlin.String#androidx.compose.ui.focus.FocusRequester#kotlin.Boolean#kotlin.Function1[kotlin.String,kotlin.Boolean]#kotlin.Function1[kotlin.String,kotlin.Unit]/PointingToDeclaration/core/[root]/input.html
+$dokka.location:/TextFieldStyle.Filled///PointingToDeclaration/core/[root]/-text-field-style/-filled/index.html
+$dokka.location:/TextFieldStyle.Outlined///PointingToDeclaration/core/[root]/-text-field-style/-outlined/index.html
+$dokka.location:/TextFieldStyle///PointingToDeclaration/core/[root]/-text-field-style/index.html
+module:color
+com.vanpra.composematerialdialogs.color
+module:core
+com.vanpra.composematerialdialogs
+module:datetime
+com.vanpra.composematerialdialogs.datetime.date
+com.vanpra.composematerialdialogs.datetime.time
